@@ -6,12 +6,12 @@ export default function Landing() {
 
   <div className="container pt-5 mx-auto my-auto flex-wrap flex-col flex text-white center">
       <div className="container heading p-5 flex flex-wrap flex-col  text-center ">
-        <span className="heading-upper animate-character">Anagram.</span>
+        <span className="heading-upper animate-character">Orca.</span>
         <span className="transition-slideup text-5xl text-center ">
-          Business & Educational
+          All Your Educational Needs
         </span>
         <span className="transition-slideup text-5xl text-center ">
-          Consulting
+          Experienced Teachers
         </span>
         <span className="transition-slideup text-gray-400 mt-4 text-4xl">
           <q>Pefection comes with detailing</q>{" "}
@@ -30,12 +30,12 @@ export default function Landing() {
               </div>
               <div class="text-gray-400 card-p text-xl">
                 <nobr>
-                We understand that every firm whether it’s big or 
+                We understand that every student whether they're young  or 
                 </nobr>
               </div>
               <div class="text-gray-400 card-p text-xl">
                 <nobr>
-                start-up needs regular qualitative and operational enhancement
+                old need regular qualitative and operational enhancement
                 </nobr>
               </div>
               <div class="text-gray-400 card-p text-xl">
@@ -66,7 +66,7 @@ export default function Landing() {
               </div>
               <div class="text-gray-400 card-p text-xl">
                 <nobr>
-                efforts with our esteemed experienced Anagrammers
+                efforts with our esteemed experienced Orcas
                 </nobr>
               </div>
             </div>
